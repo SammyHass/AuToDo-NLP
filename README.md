@@ -13,9 +13,9 @@ tasks will be categorised by an NLP model to allows the user to concerntrate on 
 For Example I went into the Documents folder and made a new folder called project_files where I can store my code:
 
 ```bash
-	cd ~/Documents
-	mkdir project_files
-	cd project_files/
+cd ~/Documents
+mkdir project_files
+cd project_files/
 ```  
 
 3. We will now download the code onto our machine. We will do this with *git clone* which allows us to copy a repository over to our computer from a server. 
