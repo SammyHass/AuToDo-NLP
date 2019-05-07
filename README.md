@@ -29,36 +29,34 @@ This creates a folder within the project_files directory. This new folder is pop
 Now, change into the this folder.
 
 ```bash
-	cd task_classifier/
+cd task_classifier/
 ```
 
 4. Please ensure that you have Python 3.4 or higher installed as well as the Pip package manager. You can check these are installed correctly by running:
 
 ```bash
-	python --version
-	pip --version
+python --version
+pip --version
 ```
 
 5. Install the dependencies needed to make the project work.
 
 ```bash
-	pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Running 
 
 * **add_to_csv.py**
 ```bash
-	python add_to_csv.py
+python add_to_csv.py
 ```
 
 * **classifier.ipynb**
 ```bash
-	jupyter classifier.ipynb
+jupyter notebook
 ```
 This will run the application on localhost:8888. Type this into your browser and the notebook will open. To run each cell in this notebook, you can press ```SHIFT + ENTER```.
-
-
 
 
 
