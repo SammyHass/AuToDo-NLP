@@ -3,6 +3,5 @@ pandas
 tensorflow
 tensorflow-hub
 sklearn
-os
 conda
 jupyter

@@ -42,7 +42,7 @@ Now, change into the this folder.
 5. Install the dependencies needed to make the project work.
 
 ```bash
-	pip install -m requirements.txt
+	pip install -r requirements.txt
 ```
 
 ## Running 
